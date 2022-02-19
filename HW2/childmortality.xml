@@ -1,0 +1,218 @@
+<DATA>
+
+	<ROW>
+		<Year>1990</Year>
+		<UnderFIve>93.4</UnderFIve>
+		<Infant>64.8</Infant>
+		<Neonatal>36.8</Neonatal>
+		<AboveFive>12.3</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1991</Year>
+		<UnderFIve>92.1</UnderFIve>
+		<Infant>63.9</Infant>
+		<Neonatal>36.3</Neonatal>
+		<AboveFive>11.5</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1992</Year>
+		<UnderFIve>90.9</UnderFIve>
+		<Infant>63.1</Infant>
+		<Neonatal>35.9</Neonatal>
+		<AboveFive>10.8</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1993</Year>
+		<UnderFIve>89.7</UnderFIve>
+		<Infant>62.3</Infant>
+		<Neonatal>35.4</Neonatal>
+		<AboveFive>10.1</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1994</Year>
+		<UnderFIve>88.7</UnderFIve>
+		<Infant>61.4</Infant>
+		<Neonatal>26.1</Neonatal>
+		<AboveFive>9.4</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1995</Year>
+		<UnderFIve>87.3</UnderFIve>
+		<Infant>60.5</Infant>
+		<Neonatal>34.4</Neonatal>
+		<AboveFive>8.8</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1996</Year>
+		<UnderFIve>85.6</UnderFIve>
+		<Infant>59.4</Infant>
+		<Neonatal>33.7</Neonatal>
+		<AboveFive>8.2</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1997</Year>
+		<UnderFIve>66.7</UnderFIve>
+		<Infant>58.2</Infant>
+		<Neonatal>33.1</Neonatal>
+		<AboveFive>7.7</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1998</Year>
+		<UnderFIve>82.1</UnderFIve>
+		<Infant>56.9</Infant>
+		<Neonatal>32.3</Neonatal>
+		<AboveFive>8.9</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>1999</Year>
+		<UnderFIve>79.9</UnderFIve>
+		<Infant>55.4</Infant>
+		<Neonatal>31.5</Neonatal>
+		<AboveFive>6.9</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2000</Year>
+		<UnderFIve>77.5</UnderFIve>
+		<Infant>53.9</Infant>
+		<Neonatal>30.7</Neonatal>
+		<AboveFive>6.6</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2001</Year>
+		<UnderFIve>74.8</UnderFIve>
+		<Infant>52.1</Infant>
+		<Neonatal>29.8</Neonatal>
+		<AboveFive>6.4</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2002</Year>
+		<UnderFIve>72</UnderFIve>
+		<Infant>46.9</Infant>
+		<Neonatal>28.9</Neonatal>
+		<AboveFive>6.2</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2003</Year>
+		<UnderFIve>69.2</UnderFIve>
+		<Infant>48.6</Infant>
+		<Neonatal>28</Neonatal>
+		<AboveFive>6</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2004</Year>
+		<UnderFIve>66.7</UnderFIve>
+		<Infant>46.9</Infant>
+		<Neonatal>26.1</Neonatal>
+		<AboveFive>5.9</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2005</Year>
+		<UnderFIve>66.7</UnderFIve>
+		<Infant>45.1</Infant>
+		<Neonatal>26.1</Neonatal>
+		<AboveFive>5.9</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2006</Year>
+		<UnderFIve>61.1</UnderFIve>
+		<Infant>43.4</Infant>
+		<Neonatal>25.3</Neonatal>
+		<AboveFive>5.9</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2007</Year>
+		<UnderFIve>58.5</UnderFIve>
+		<Infant>46.9</Infant>
+		<Neonatal>24.4</Neonatal>
+		<AboveFive>6</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2008</Year>
+		<UnderFIve>56.2</UnderFIve>
+		<Infant>40.3</Infant>
+		<Neonatal>23.6</Neonatal>
+		<AboveFive>6</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2009</Year>
+		<UnderFIve>53.7</UnderFIve>
+		<Infant>38.8</Infant>
+		<Neonatal>22.9</Neonatal>
+		<AboveFive>5.9</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2010</Year>
+		<UnderFIve>66.7</UnderFIve>
+		<Infant>37.4</Infant>
+		<Neonatal>22.2</Neonatal>
+		<AboveFive>5.6</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2011</Year>
+		<UnderFIve>49.3</UnderFIve>
+		<Infant>36</Infant>
+		<Neonatal>21.5</Neonatal>
+		<AboveFive>5.4</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2012</Year>
+		<UnderFIve>47.3</UnderFIve>
+		<Infant>34.7</Infant>
+		<Neonatal>20.8</Neonatal>
+		<AboveFive>5</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2013</Year>
+		<UnderFIve>45.5</UnderFIve>
+		<Infant>33.6</Infant>
+		<Neonatal>20.2</Neonatal>
+		<AboveFive>4.6</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2014</Year>
+		<UnderFIve>43.7</UnderFIve>
+		<Infant>46.9</Infant>
+		<Neonatal>19.6</Neonatal>
+		<AboveFive>4.2</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2015</Year>
+		<UnderFIve>42.2</UnderFIve>
+		<Infant>31.4</Infant>
+		<Neonatal>19.1</Neonatal>
+		<AboveFive>3.9</AboveFive>
+	</ROW>
+
+	<ROW>
+		<Year>2016</Year>
+		<UnderFIve>40.8</UnderFIve>
+		<Infant>30.5</Infant>
+		<Neonatal>18.6</Neonatal>
+		<AboveFive>3.6</AboveFive>
+	</ROW>
+</DATA>
